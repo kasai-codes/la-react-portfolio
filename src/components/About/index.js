@@ -1,6 +1,6 @@
-// import './style.css'
+import './style.css'
 import React from 'react'
-
+import kasai from '../../images/walkingkasai'
 
 
 
@@ -13,11 +13,18 @@ export default function About() {
       <div id="about" class="mt-5 pb-5 container" data-aos="fade-down" data-aos-duration="1">
       <div class="post-heading text-center">
         <h3 class="display-4 font-weight-bold pt-5">Kasai Preston</h3>
-        <hr class="w-50 mx-auto pb-2" />
+        <hr class="w-50 mx-auto pb-2" hr/>
       </div>
       <div class="row">
         <div class="col-lg-6 col-md-6 col-12">
-         
+        <div class="col-lg-6 col-md-6 col-12">
+          <img
+            src="{kasai}"
+            class="img-fluid mx-auto"
+      
+            alt="self portrait"
+          />
+        </div>
         </div>
 
         <div class="col-lg-6 col-md-6 col-12" data-aos="fade-right" data-aos-duration="1">
