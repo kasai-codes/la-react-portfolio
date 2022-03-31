@@ -1,7 +1,6 @@
 import './style.css'
 import React from 'react'
-import kasai from '../../images/walkingkasai'
-
+import  selfPortrait  from '../../images/walkingkasai.jpg'
 
 
 
@@ -19,7 +18,7 @@ export default function About() {
         <div class="col-lg-6 col-md-6 col-12">
         <div class="col-lg-6 col-md-6 col-12">
           <img
-            src="{kasai}"
+            src={selfPortrait}
             class="img-fluid mx-auto"
       
             alt="self portrait"
