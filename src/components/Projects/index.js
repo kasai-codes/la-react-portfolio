@@ -5,7 +5,7 @@ import projectItems from '../../data/projects.json'
 export default function Projects() {
   return (
    
-    <div className="container p-3">
+    <div className="container p-3" id='Projects'>
         <div className="row g-3">
             {projectItems.map(({ id, title, url, image, description }) => (
                 <div className="col-lg-6" key={id}>
@@ -15,7 +15,7 @@ export default function Projects() {
                             <h5 className="card-title">{title}</h5>
                             <p className="card-text">{description}</p>
                         </div>
-                        <div className="card-footer text-end">
+                        <div className="card-footer text-start">
                             <a href={url} target="_blank" className="btn btn-dark">View the repo on Github</a>
                         </div>
                     </div>

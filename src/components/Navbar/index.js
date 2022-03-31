@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import  resume  from '../../images/kasairesume1.docx'
 
 export default function Navbar() {
   return (
@@ -26,7 +27,7 @@ export default function Navbar() {
               <a className="nav-link" href="#Contact">
                 Contact
               </a>
-              <a className="nav-link" href="#Resume">
+              <a className="nav-link" href="#Resume" download={resume}>
                 Resume
               </a>
             </div>

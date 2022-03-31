@@ -9,24 +9,24 @@ export default function About() {
     <div id='About'>
 
       <div>
-      <div id="about" class="mt-5 pb-5 container" data-aos="fade-down" data-aos-duration="1">
-      <div class="post-heading text-center">
-        <h3 class="display-4 font-weight-bold pt-5">Kasai Preston</h3>
-        <hr class="w-50 mx-auto pb-2" hr/>
+      <div className="mt-5 pb-5 container" data-aos="fade-down" data-aos-duration="1">
+      <div className="post-heading text-center">
+        <h3 className="display-4 font-weight-bold pt-5">Kasai Preston</h3>
+        <hr className="w-50 mx-auto pb-2" hr/>
       </div>
-      <div class="row">
-        <div class="col-lg-6 col-md-6 col-12">
-        <div class="col-lg-6 col-md-6 col-12">
+      <div className="row">
+        <div className="col-lg-6 col-md-6 col-12">
+        <div className="col-lg-6 col-md-6 col-12">
           <img
             src={selfPortrait}
-            class="img-fluid mx-auto"
+            className="img-fluid kasai"
       
             alt="self portrait"
           />
         </div>
         </div>
 
-        <div class="col-lg-6 col-md-6 col-12" data-aos="fade-right" data-aos-duration="1">
+        <div className="col-lg-6 col-md-6 col-12" data-aos="fade-right" data-aos-duration="1">
           <h2>Want to get to know me?</h2>
           <hr />
           <p>

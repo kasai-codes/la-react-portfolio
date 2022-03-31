@@ -19,5 +19,12 @@
       "url": "https://github.com/kasai-codes/Developer-schmooze",
       "image": "https://github.com/kasai-codes/Developer-schmooze/blob/main/public/images/screenshot1.png?raw=true",
       "description": "A CMS style blog site using handlebars.js and SQL where developers can create an account, publish posts, edit and delete posts, as well as comment on other user's posts."
+    },
+    {
+      "id": 4,
+      "title": "Weather Buddy",
+      "url": "https://github.com/kasai-codes/Weather-buddy",
+      "image": "https://github.com/kasai-codes/Weather-buddy/raw/main/assets/images/screenshot.png",
+      "description": "The Weather Buddy app pulls in third party data from an opensource weather api that uses geographical data to pinpoint locations and provide current weather as well as a five day forecast for that specific location"
     }
-  ]
+  ] 
