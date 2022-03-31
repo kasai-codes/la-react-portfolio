@@ -30,7 +30,17 @@ export default function About() {
           <h2>Want to get to know me?</h2>
           <hr />
           <p>
-       Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur iste sunt laudantium, quas, quia molestiae iusto error pariatur iure omnis cum, eaque corrupti facere! Harum deleniti qui quis tempore dolores! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil ut enim reprehenderit ratione ipsum maxime accusantium? Delectus minima eaque natus facilis ea consectetur molestias dolor ipsum. Exercitationem, ea. Aut, quos! Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum perferendis eius incidunt quod dolorum, quis at a quisquam saepe accusantium ut error obcaecati, quia mollitia sequi harum labore tempora ipsum? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil ut enim reprehenderit ratione ipsum maxime accusantium? Delectus minima eaque natus facilis ea consectetur molestias dolor ipsum. Exercitationem, ea. Aut, quos! Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum perferendis eius incidunt quod dolorum, quis at a quisquam saepe accusantium ut error obcaecati, quia mollitia sequi harum labore tempora ipsum? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil ut enim reprehenderit ratione ipsum maxime accusantium? Delectus minima eaque natus facilis ea consectetur molestias dolor ipsum. Exercitationem, ea. Aut, quos! Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum perferendis eius incidunt quod dolorum, quis at a quisquam saepe accusantium ut error obcaecati, quia mollitia sequi harum labore tempora ipsum?
+          I entered the workforce with rough framing at a young age and
+            excelled to doing different types of construction based work
+            including finish work, minor plumbing, remodels, equipment
+            operating, and much more. From there I decided I wanted to do
+            something a little different so I took a sales position at AT&T
+            where through hard work honing in my customer service and sales
+            skills I advanced to a Business Account Representative role. For the
+            past 6 years I've been a certified mechanic and even had my own shop
+            that was afermarket subaru application specific. Now im an aspiring
+            web developer and currently enrolled in University of Washington's
+            coding bootcamp.
           </p>
 
     

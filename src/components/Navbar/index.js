@@ -1,5 +1,4 @@
-import React from "react";
-import "./style.css";
+import React from "react"
 import  resume  from '../../images/kasairesume1.docx'
 
 export default function Navbar() {
