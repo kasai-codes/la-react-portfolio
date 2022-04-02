@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/la-react-portfolio/static/css/main.20d8b4d2.css",
+    "main.js": "/la-react-portfolio/static/js/main.07eba080.js",
+    "static/media/kasairesume1.docx": "/la-react-portfolio/static/media/kasairesume1.797db78b6e931e378da4.docx",
+    "static/media/walkingkasai.jpg": "/la-react-portfolio/static/media/walkingkasai.252f5c97a20e239ebc25.jpg",
+    "index.html": "/la-react-portfolio/index.html",
+    "main.20d8b4d2.css.map": "/la-react-portfolio/static/css/main.20d8b4d2.css.map",
+    "main.07eba080.js.map": "/la-react-portfolio/static/js/main.07eba080.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20d8b4d2.css",
+    "static/js/main.07eba080.js"
+  ]
+}
