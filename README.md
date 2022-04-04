@@ -7,7 +7,7 @@
 
 ## Deployed 
 
-* [Kasai Preston react portfolio](https://kasai-codes.github.io/kasai-codes-portfolio/) 
+* [Kasai Preston react portfolio](https://kasai-codes.github.io/la-react-portfolio/) 
 ## Preview
 
 ![Screen shot](./src/images/screenshotReact.png)
